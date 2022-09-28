@@ -1,3 +1,3 @@
-print("hello world")
-x=input("Enter a number: ")
+print("hello hany")
+x=input("Enter your name: ")
 print("You entered: ", x)
